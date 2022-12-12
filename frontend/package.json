@@ -1,0 +1,14 @@
+{
+    "name": "life_saver",
+    "author": {
+        "name": "az",
+        "email": "azusachino@proton.me"
+    },
+    "version": "0.0.1",
+    "repository": {
+        "type": "Github",
+        "url": "https://github.com/azusachino/LifeSaver"
+    },
+    "dependencies": {},
+    "devDependencies": {}
+}
